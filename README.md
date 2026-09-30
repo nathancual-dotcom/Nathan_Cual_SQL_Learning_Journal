@@ -1,0 +1,1 @@
+# Nathan_Cual_SQL_Learning_Journal
