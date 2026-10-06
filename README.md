@@ -11,6 +11,8 @@ Section 3: A Mistake or Struggle  (about 150–200 words)
 
 Section 4: Connecting to the Real World  (about 100–150 words)
 
+My father’s friend works with a company that both manages and provides/supplies the inventory of perishable goods to several store. In that instance the encoding of official transaction and delivery records are all done using computers. While the digitation already allows for greater easy way to backup and access records in case of emergencies, the use of SQL would allow for greater ease of accessing select pieces of information. By using clauses like JOIN and the Aggregation Functions it would be able to bring up both all of a specific category an to look for specific orders. Through properly utilizing SQL it allows some to greatly streamline and cut down the amount of tie need to do certain tasks.
+
 Section 5: Self-Assessment  (about 100–150 words)
 
 Section 6: Goals and Next Steps  (about 75–100 words) 
