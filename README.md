@@ -4,6 +4,19 @@ Section 1: What I Learned  (about 150–200 words)
 What I learned was the basic on how to read, write and retrieve data using SQL. I was taught how to SELECT certain pieces of information and to properly filter them.  Through understanding both the Coding & Execution order of SQL coding I was able to utilize clauses identify WHERE within the dataset it is located, to use GROUP BY & ORDER BY to sort them by criteria and LIMIT to focus only on the necessary bits of data. The different clauses feed directly onto one another, SELECT is the data being looked for X, FROM is where X is stored, WHERE filters out the data until only data with X remains, GROUP BY than groups them based on categories while HAVING looks for the data X. ORDER BY than categorized them into a given categories while LIMIT is used to limit number of entries that are shown in the end result.
 
 Section 2: A Query I Am Proud Of  (about 150–200 words)
+SELECT 	g.Name, 
+        COUNT(t.TrackId) AS NumTracks
+FROM genres g
+JOIN tracks t ON g.GenreId = t.GenreId
+GROUP BY g.Name
+ORDER BY NumTracks DESC
+LIMIT 5
+
+I’m proud of this one as I was able to figure thus one out without heavily relying on additional AI tools. 
+
+Since I’m looking got the “genre names” & “amount of tracks” I gan first search for the names in the “genres g” table than connect it to the “tracks t” table as they share the “GenreId” key. Since I used “g.Name” for the “SELECT” I had to use it for the “GROUP BY”. After that I used “ORDER BY” + “DESC” to arrange the final output as instructed. 
+
+While I still needed to pinpoint what I was missing or what I did wrong, I was still able to correctly write and understand most of it before I needed to utilize AI assistance.  While this query still shows me that I lack proficiency in the usage SQL it also showed me that I already understood the fundamentals and can begin advancing to improve my skills in my own time. 
 
 
 Section 3: A Mistake or Struggle  (about 150–200 words)
