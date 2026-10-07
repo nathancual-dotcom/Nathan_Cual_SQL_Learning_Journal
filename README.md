@@ -16,3 +16,5 @@ My father’s friend works with a company that both manages and provides/supplie
 Section 5: Self-Assessment  (about 100–150 words)
 
 Section 6: Goals and Next Steps  (about 75–100 words) 
+
+I still need further practice in in my general understanding of SQL, while can now understand how to read a SQL program and generally understand what it looking for, where its pulling from and what it doing with said data. It still takes me a while to figure out how to translate that into an SQL program with more complex prompts taking marginally more time for me to figure out. While I can still figure out how to write the code, I still takes me awhile and requires additional tools to point out my mistakes.
