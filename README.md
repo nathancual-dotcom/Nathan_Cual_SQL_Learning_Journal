@@ -14,6 +14,7 @@ Section 4: Connecting to the Real World  (about 100–150 words)
 My father’s friend works with a company that both manages and provides/supplies the inventory of perishable goods to several store. In that instance the encoding of official transaction and delivery records are all done using computers. While the digitation already allows for greater easy way to backup and access records in case of emergencies, the use of SQL would allow for greater ease of accessing select pieces of information. By using clauses like JOIN and the Aggregation Functions it would be able to bring up both all of a specific category an to look for specific orders. Through properly utilizing SQL it allows some to greatly streamline and cut down the amount of tie need to do certain tasks.
 
 Section 5: Self-Assessment  (about 100–150 words)
+As of now I view my “Basic” understanding and my usage of “Aggregation” as the highest at 5 & 4-4.5 respectively. These concepts were pretty strait forward so I have no major problem in remembering the processes for the easy practice items. Regarding the usage of “Joins with 2, 3 or more table they are also relatively easy to understand but can be a little confusing with the introduction of linking separate tables. Because of this I would rate my current proficiency with them at 3-4. Conversely, I currently view my application of “Subqueries” and “CTEs” as my lowest at both 1-2. Queries that require either or both naturally take the most time and require additional tools.
 
 Section 6: Goals and Next Steps  (about 75–100 words) 
 
