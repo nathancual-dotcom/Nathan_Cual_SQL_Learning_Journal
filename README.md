@@ -37,7 +37,7 @@ My father’s friend works with a company that both manages and provides/supplie
 
 Section 5: Self-Assessment  
 
-As of now I view my “Basic” understanding and my usage of “Aggregation” as the highest at 5 & 4-4.5 respectively. These concepts were pretty strait forward so I have no major problem in remembering the processes for the easy practice items. Regarding the usage of “Joins with 2, 3 or more table they are also relatively easy to understand but can be a little confusing with the introduction of linking separate tables. Because of this I would rate my current proficiency with them at 3-4. Conversely, I currently view my application of “Subqueries” and “CTEs” as my lowest at both 1-2. Queries that require either or both naturally take the most time and require additional tools.
+As of now I view my “Basic” understanding and my usage of “Aggregation” as the highest at 5 & 4-4.5 respectively. These concepts were pretty strait forward so I have no major problem in remembering the processes for the easy practice items. Regarding the usage of “Joins with 2, 3 or more table they are also relatively easy to understand but can be a little confusing with the introduction of linking separate tables. Because of this I would rate my current proficiency with them at 3-4. Conversely, I currently view my application of “Subqueries” and “CTEs” as my lowest at both 2-3. Queries that require either or both naturally take the most time and require additional tools.
 
 Section 6: Goals and Next Steps  (about 75–100 words) 
 
