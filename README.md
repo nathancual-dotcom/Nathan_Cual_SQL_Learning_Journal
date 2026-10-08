@@ -39,6 +39,6 @@ Section 5: Self-Assessment
 
 As of now I view my “Basic” understanding and my usage of “Aggregation” as the highest at 5 & 4-4.5 respectively. These concepts were pretty strait forward so I have no major problem in remembering the processes for the easy practice items. Regarding the usage of “Joins with 2, 3 or more table they are also relatively easy to understand but can be a little confusing with the introduction of linking separate tables. Because of this I would rate my current proficiency with them at 3-4. Conversely, I currently view my application of “Subqueries” and “CTEs” as my lowest at both 2-3. Queries that require either or both naturally take the most time and require additional tools.
 
-Section 6: Goals and Next Steps  (about 75–100 words) 
+Section 6: Goals and Next Steps
 
 I still need further practice in in my general understanding of SQL, while can now understand how to read a SQL program and generally understand what it looking for, where its pulling from and what it doing with said data. It still takes me a while to figure out how to translate that into an SQL program with more complex prompts taking marginally more time for me to figure out. While I can still figure out how to write the code, I still takes me awhile and requires additional tools to point out my mistakes.
